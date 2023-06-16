@@ -13,6 +13,6 @@ Here is the UI Demo video link if you want view the UI and understand how to use
 
 
 ## Reports
-<p>**Report-1** has all  the details about the data cleaning steps that are performed on the raw data and also about the techniques used for exploratory data analysis. <br>
+<strong> Report-1 </strong> has all  the details about the data cleaning steps that are performed on the raw data and also about the techniques used for exploratory data analysis. <br>
 **Report-2** has all the details about ML models and their tuning details that are used for predicting hotel booking cancellations.<br>
 **Report -3** has all the details about how to install the UI in your local machine and get insights from the final data product that is built. </p>

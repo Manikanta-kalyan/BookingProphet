@@ -9,7 +9,7 @@ forecasts about future cancellations and so that users can make necessary
 operational adjustments to meet customer requirements and maximize profitability
 
 ## UI Demo Video
-Here is the UI Demo video link if you want view the UI
+Here is the UI Demo video link if you want view the UI and understand how to use the UI: [Link](https://youtu.be/bQlWXvFNTqM)
 
 
 ## Reports
